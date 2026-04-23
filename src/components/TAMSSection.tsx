@@ -8,7 +8,7 @@ const badges = [
   "Residential & Commercial",
 ];
 
-export function TAMSSection() {
+export default function TAMSSection() {
   return (
     <section className="bg-primary/[0.04] border-y border-primary/10 py-20 md:py-28">
       <div className="container mx-auto px-4 max-w-4xl">
