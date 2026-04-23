@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://PatrickCarroll11.github.io/pat-quinn-construction-website/sitemap.xml
